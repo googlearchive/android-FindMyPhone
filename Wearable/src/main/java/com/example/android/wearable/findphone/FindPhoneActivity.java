@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.findphone;
+package com.example.android.wearable.findphone;
 
 import android.app.Activity;
 import android.app.Notification;
